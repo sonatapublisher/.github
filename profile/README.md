@@ -1,6 +1,6 @@
-# SONATA STUDIO °
+# sonata studio °
 
-Sonata Studio ° is an independent game product studio building focused creator instruments alongside original game worlds.
+sonata studio ° is an independent game product studio building focused creator instruments alongside original game worlds.
 
 > *"Build tools we want to make with. Build worlds that prove why they should exist."*
 
