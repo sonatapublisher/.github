@@ -1,37 +1,24 @@
 # sonata studio °
 
-sonata studio ° is an independent game product studio building focused creator instruments alongside original game worlds.
+Studio behind `mikrokhoros`.
 
-> *"Build tools we want to make with. Build worlds that prove why they should exist."*
+## Open source
 
----
+### mikrokhoros
 
-## What We Build
+Open source Swift runtime for persistent object worlds where AI agents observe, act through bounded tools, face verified consequences, and leave replayable trajectories.
 
-### Core Instruments
-
-We develop small, coherent tools for spatial design, system dependencies, and narrative construction:
-
-- **Prelude** — Spatial design and 3D greyboxing instrument. Turns intent and text prompts into structured, auditable `.sprel` scenes with realtime collaboration contracts.
-  - Explore: [prelude.sonatapublisher.com](https://prelude.sonatapublisher.com)
-- **Blueprint** *(Research Track)* — A focused instrument for reasoning about game systems, dependencies, and experience architecture.
-- **Draft** *(Research Track)* — A writing environment for narrative structure, world continuity, and game text.
-
-### Original Game IP
-
-- **Luzcio** — A first-person action-adventure set in a world of living string, stolen colour, physical gestures, and Stringo lore. Developed directly alongside our creator tools.
-
----
-
-## Studio Philosophy
-
-1. **Authorship over Automation** — The instrument proposes. The creator decides.
-2. **Depth over Surface Area** — Small, coherent tools beat bloated suites that interrupt the work.
-3. **Build Worlds, Not Content** — Systems, lore, and space reinforce one another.
-
----
+Open source · Apache-2.0 · Pre-release
 
 ## Links
 
-- **Main Website**: [sonatapublisher.com](https://sonatapublisher.com)
-- **Prelude Product Site**: [prelude.sonatapublisher.com](https://prelude.sonatapublisher.com)
+- **Studio**: [sonatapublisher.com](https://sonatapublisher.com)
+- **Site**: [mikrokhoros.org](https://mikrokhoros.org/)
+- **Repository**: [github.com/sonatapublisher/mikrokhoros](https://github.com/sonatapublisher/mikrokhoros)
+
+## Repository
+
+- [Contribution](https://github.com/sonatapublisher/mikrokhoros/blob/main/CONTRIBUTING.md)
+- [Support](https://github.com/sonatapublisher/mikrokhoros/blob/main/SUPPORT.md)
+- [Security](https://github.com/sonatapublisher/mikrokhoros/blob/main/SECURITY.md)
+- [License](https://github.com/sonatapublisher/mikrokhoros/blob/main/LICENSE)
