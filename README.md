@@ -10,9 +10,9 @@ software products, domain systems, original IP, and world bibles for ambitious g
 
 ### mikrokhoros
 
-Open source Swift runtime for persistent object worlds where AI agents observe, act through bounded tools, face verified consequences, and leave replayable trajectories.
+Open source AI agent harness where everything an agent can interact with is an object. Objects carry identity, state, location, authority, and history; agents act through bounded object capabilities, face runtime-verified consequences, and leave replayable trajectories.
 
-Agent workflows often keep plans, tool state, and results in fragile context. A system can describe an action without proving that the world changed. mikrokhoros gives agents a persistent object world: objects carry identity, state, location, authority, and history; bounded capabilities expose actions; the runtime checks preconditions and commits durable state transitions; trajectories can be replayed.
+The harness gives an agent a world with authoritative state. The model proposes bounded actions; the runtime checks preconditions, commits consequences, and carries the resulting state into the next observation. The object model makes the agent's surroundings inspectable, actionable, and replayable.
 
 The model proposes; the world decides.
 
