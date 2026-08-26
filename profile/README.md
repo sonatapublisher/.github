@@ -10,7 +10,7 @@ software products, domain systems, original IP, and world bibles for ambitious g
 
 ### mikrokhoros
 
-Open source AI agent harness for object-first worlds. Every persistent capability an agent can inspect or invoke is a concrete object with identity, state, location, authority, and history; bounded actions produce runtime-verified consequences and replayable trajectories.
+Open source AI agent harness for object-first worlds. Every persistent world capability an agent can invoke is an exact concrete object with declared functions, identity, state, location, authority, and history; the runtime enforces locality, possession, permissions, bounded actions, and replayable trajectories.
 
 The harness gives an agent a world with authoritative state. The model proposes bounded actions; the runtime checks preconditions, commits consequences, and carries the resulting state into the next observation. The object model makes the agent's surroundings inspectable, actionable, and replayable.
 
